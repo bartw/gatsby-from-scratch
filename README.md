@@ -5,6 +5,7 @@ Repo for blog post: https://dev.bartwijnants.be/gatsby-from-scratch/
 ## quickstart
 
 ```shell
+nvm use
 npm install
 npm start
 ```
